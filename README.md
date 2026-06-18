@@ -1,19 +1,16 @@
 <!-- ====================== HERO ====================== -->
 <div align="center">
 
-<a href="https://aude.com">
-  <img src="./assets/header.svg" alt="Aude Robles — Turning outdated systems into fast, smooth, modern web." width="100%" />
-</a>
+<img src="./assets/header.svg" alt="Aude Robles — Turning outdated systems into fast, smooth, modern web." width="100%" />
 
 <br/>
 
-<a href="https://aude.com"><img src="https://img.shields.io/badge/aude.com-0c0e22?style=for-the-badge&logo=googlechrome&logoColor=22D3EE&labelColor=0c0e22" alt="Website" /></a>
-<a href="https://www.linkedin.com/in/matthewnrobles"><img src="https://img.shields.io/badge/LinkedIn-0c0e22?style=for-the-badge&logo=linkedin&logoColor=22D3EE&labelColor=0c0e22" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/ronaudemarrobles"><img src="https://img.shields.io/badge/LinkedIn-0c0e22?style=for-the-badge&logo=linkedin&logoColor=22D3EE&labelColor=0c0e22" alt="LinkedIn" /></a>
 <img src="https://komarev.com/ghpvc/?username=AUDEOFFICIAL&style=for-the-badge&color=22D3EE&label=PROFILE+VIEWS" alt="Profile views" />
 
 <br/><br/>
 
-<a href="https://aude.com"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=22D3EE&center=true&vCenter=true&width=880&height=46&lines=I+turn+outdated+systems+into+fast%2C+smooth%2C+modern+web.;Slow+legacy+stack+%E2%86%92+rebuilt+%E2%86%92+runs+itself.;No+bloat.+No+downtime.+No+process+left+manual." alt="What I do" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=22D3EE&center=true&vCenter=true&width=880&height=46&lines=I+turn+outdated+systems+into+fast%2C+smooth%2C+modern+web.;Slow+legacy+stack+%E2%86%92+rebuilt+%E2%86%92+runs+itself.;No+bloat.+No+downtime.+No+process+left+manual." alt="What I do" />
 
 </div>
 
@@ -157,11 +154,11 @@ Taking on freelance and contract builds now. Best fit: founders and teams stuck 
 
 <br/>
 
-<a href="https://aude.com"><img src="https://img.shields.io/badge/Start_a_project_%E2%86%92-22D3EE?style=for-the-badge&logo=rocket&logoColor=0c0e22&labelColor=22D3EE" alt="Start a project" /></a>
-<a href="https://www.linkedin.com/in/matthewnrobles"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0c0e22?style=for-the-badge&logo=linkedin&logoColor=22D3EE&labelColor=0c0e22" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/ronaudemarrobles"><img src="https://img.shields.io/badge/Start_a_project_%E2%86%92-22D3EE?style=for-the-badge&logo=rocket&logoColor=0c0e22&labelColor=22D3EE" alt="Start a project" /></a>
+<a href="https://www.linkedin.com/in/ronaudemarrobles"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0c0e22?style=for-the-badge&logo=linkedin&logoColor=22D3EE&labelColor=0c0e22" alt="LinkedIn" /></a>
 
 <br/><br/>
 
-<sub><code>$ ./aude --status</code> &nbsp; rebuilding outdated systems &nbsp; · &nbsp; fast, smooth, modern &nbsp; · &nbsp; <code>aude.com</code></sub>
+<sub><code>$ ./aude --status</code> &nbsp; rebuilding outdated systems &nbsp; · &nbsp; fast, smooth, modern</sub>
 
 </div>
