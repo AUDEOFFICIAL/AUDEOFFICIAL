@@ -1,0 +1,17 @@
+<svg width="1280" height="16" viewBox="0 0 1280 16" fill="none" xmlns="http://www.w3.org/2000/svg" role="presentation">
+  <defs>
+    <linearGradient id="dline" x1="0" y1="0" x2="1280" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#7c5cff" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#6366f1" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#22d3ee" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="dot" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#22d3ee"/>
+      <stop offset="1" stop-color="#22d3ee" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <line x1="0" y1="8" x2="1280" y2="8" stroke="url(#dline)" stroke-width="2"/>
+  <circle cy="8" r="6" fill="url(#dot)">
+    <animate attributeName="cx" values="120;1160;120" dur="6s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0.5;1" keySplines="0.4 0 0.2 1;0.4 0 0.2 1"/>
+  </circle>
+</svg>

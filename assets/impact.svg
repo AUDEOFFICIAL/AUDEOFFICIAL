@@ -1,0 +1,44 @@
+<svg width="1280" height="150" viewBox="0 0 1280 150" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="By the numbers: 4 live systems, 350+ users reached, up to 10x faster, 100% end-to-end">
+  <defs>
+    <linearGradient id="tile" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#14172e"/>
+      <stop offset="1" stop-color="#0c0e22"/>
+    </linearGradient>
+    <linearGradient id="num" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#a78bfa"/>
+      <stop offset="1" stop-color="#22d3ee"/>
+    </linearGradient>
+    <style>
+      .s{font-family:'Segoe UI','Helvetica Neue',Arial,sans-serif}
+      .lbl{fill:#8b90bd;font-size:13px;font-weight:600;letter-spacing:1px}
+    </style>
+  </defs>
+
+  <!-- tile template x4 -->
+  <g class="s">
+    <!-- 1 -->
+    <g transform="translate(0,8)">
+      <rect width="302" height="134" rx="14" fill="url(#tile)" stroke="#262a4d" stroke-width="1"/>
+      <text x="151" y="68" text-anchor="middle" fill="url(#num)" font-size="48" font-weight="800">4</text>
+      <text x="151" y="98" text-anchor="middle" class="lbl">LIVE SYSTEMS SHIPPED</text>
+    </g>
+    <!-- 2 -->
+    <g transform="translate(326,8)">
+      <rect width="302" height="134" rx="14" fill="url(#tile)" stroke="#262a4d" stroke-width="1"/>
+      <text x="151" y="68" text-anchor="middle" fill="url(#num)" font-size="48" font-weight="800">350+</text>
+      <text x="151" y="98" text-anchor="middle" class="lbl">USERS REACHED</text>
+    </g>
+    <!-- 3 -->
+    <g transform="translate(652,8)">
+      <rect width="302" height="134" rx="14" fill="url(#tile)" stroke="#262a4d" stroke-width="1"/>
+      <text x="151" y="68" text-anchor="middle" fill="url(#num)" font-size="48" font-weight="800">10&#215;</text>
+      <text x="151" y="98" text-anchor="middle" class="lbl">FASTER LOAD TIMES</text>
+    </g>
+    <!-- 4 -->
+    <g transform="translate(978,8)">
+      <rect width="302" height="134" rx="14" fill="url(#tile)" stroke="#262a4d" stroke-width="1"/>
+      <text x="151" y="68" text-anchor="middle" fill="url(#num)" font-size="48" font-weight="800">100%</text>
+      <text x="151" y="98" text-anchor="middle" class="lbl">END&#8209;TO&#8209;END OWNERSHIP</text>
+    </g>
+  </g>
+</svg>
