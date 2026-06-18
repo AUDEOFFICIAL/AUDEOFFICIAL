@@ -9,7 +9,6 @@
 
 <a href="https://aude.com"><img src="https://img.shields.io/badge/aude.com-0c0e22?style=for-the-badge&logo=googlechrome&logoColor=22D3EE&labelColor=0c0e22" alt="Website" /></a>
 <a href="https://www.linkedin.com/in/matthewnrobles"><img src="https://img.shields.io/badge/LinkedIn-0c0e22?style=for-the-badge&logo=linkedin&logoColor=22D3EE&labelColor=0c0e22" alt="LinkedIn" /></a>
-<a href="https://x.com/mattdoesntstop"><img src="https://img.shields.io/badge/%40mattdoesntstop-0c0e22?style=for-the-badge&logo=x&logoColor=EAFEFF&labelColor=0c0e22" alt="X" /></a>
 <img src="https://komarev.com/ghpvc/?username=AUDEOFFICIAL&style=for-the-badge&color=22D3EE&label=PROFILE+VIEWS" alt="Profile views" />
 
 <br/><br/>
