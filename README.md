@@ -72,14 +72,8 @@ The manual, copy-paste work between your tools, replaced with software that move
 
 > _Placeholder entries — swap in your real projects, numbers, and links._
 
-**🏚️ Foreclosed-property intelligence pipeline**
-Pulls listings out of bank PDFs, scores and ranks them, enriches each with location imagery and comparable sales, then generates ready-to-post listings on a schedule. Turned an hours-per-week manual grind into a system that runs itself.
-
 **📦 Distribution management SaaS**
 Full-stack platform handling inventory, ordering, and reporting for a distributor. Auth, role-based access, and real-time dashboards. Replaced spreadsheets and manual reordering for a live operation.
-
-**🧩 Chrome extensions (350+ users)**
-Browser tools shipped to a real user base, including a YouTube transcript extractor. Manifest V3, fully client-side, 350+ active installs.
 
 **🎯 Lead-prospecting engine**
 Scrapes local businesses and scores them against a weakness rubric to surface high-fit outreach targets. Fully automated in TypeScript.
@@ -112,13 +106,6 @@ Scrapes local businesses and scores them against a weakness rubric to surface hi
 <img src="https://img.shields.io/badge/Drizzle_ORM-0c0e22?style=for-the-badge&logo=drizzle&logoColor=A78BFA&labelColor=0c0e22" alt="Drizzle ORM" />
 <img src="https://img.shields.io/badge/PostgreSQL-0c0e22?style=for-the-badge&logo=postgresql&logoColor=A78BFA&labelColor=0c0e22" alt="PostgreSQL" />
 
-**AI & Automation**
-
-<img src="https://img.shields.io/badge/OpenAI-0c0e22?style=for-the-badge&logo=openai&logoColor=22D3EE&labelColor=0c0e22" alt="OpenAI" />
-<img src="https://img.shields.io/badge/Claude-0c0e22?style=for-the-badge&logo=anthropic&logoColor=22D3EE&labelColor=0c0e22" alt="Anthropic Claude" />
-<img src="https://img.shields.io/badge/n8n-0c0e22?style=for-the-badge&logo=n8n&logoColor=22D3EE&labelColor=0c0e22" alt="n8n" />
-<img src="https://img.shields.io/badge/Make-0c0e22?style=for-the-badge&logo=make&logoColor=22D3EE&labelColor=0c0e22" alt="Make" />
-
 **Ship**
 
 <img src="https://img.shields.io/badge/Vercel-0c0e22?style=for-the-badge&logo=vercel&logoColor=EAFEFF&labelColor=0c0e22" alt="Vercel" />
@@ -134,7 +121,7 @@ Scrapes local businesses and scores them against a weakness rubric to surface hi
 
 <div align="center">
 
-<img width="100%" src="./assets/impact.svg" alt="By the numbers: 4 live systems shipped, 350+ users reached, up to 10x faster load times, 100% end-to-end ownership." />
+<img width="100%" src="./assets/impact.svg" alt="By the numbers: 2 live systems shipped, 350+ users reached, up to 10x faster load times, 100% end-to-end ownership." />
 
 <sub>Placeholder figures — edit <code>assets/impact.svg</code> with your real numbers.</sub>
 
